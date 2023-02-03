@@ -3,8 +3,8 @@ echo
 ALX School
 echo ALX
 #!/bin/bash
-<<<<<<<
+
 echo "ALX"
-=======
+
 echo "ALX School" 
->>>>>>> origin/update_script
+ origin/update_script
